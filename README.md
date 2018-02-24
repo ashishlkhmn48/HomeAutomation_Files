@@ -1,9 +1,6 @@
 # Home Automation Files
-<h1>Note :</h1>
-<p>
-Use pip module to install required Python Libraries.
-</p>
-
+<b>Note : <b>Use pip module to install required Python Libraries.
+  
 <h3>Electronics Components Control(ON/OFF) :</h3>
 <ul>
 <li><b>toggle.py : </b> Python code to toggle the state of the Pin to which the Electronics Component is Connected.</li>
