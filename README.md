@@ -1,5 +1,5 @@
 # Home Automation Files
-<b>Note : <b>Use pip module to install required Python Libraries.
+<b>Note : </b>Use pip module to install required Python Libraries.
   
 <h3>Electronics Components Control(ON/OFF) :</h3>
 <ul>
