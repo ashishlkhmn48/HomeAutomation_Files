@@ -7,6 +7,7 @@ import time
 # Adafruit_DHT.DHT22, or Adafruit_DHT.AM2302.
 sensor = Adafruit_DHT.DHT11
 
+
 pin = 17
 # BCM pin is 17 , pin according to board is 11
 
