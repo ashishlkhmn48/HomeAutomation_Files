@@ -12,6 +12,7 @@ G.setup(echo,G.IN)
 G.setup(buzz,G.OUT)
 type = sys.argv[1]
 
+
 if(type == "on") :
 	while (1):
         	G.output(trig,False)
