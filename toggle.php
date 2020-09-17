@@ -5,5 +5,6 @@ if ($state=="on")
 	echo "led on";
 else 
 	echo "led off";
+
 ?>
 
